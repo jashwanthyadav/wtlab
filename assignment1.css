@@ -1,0 +1,50 @@
+body {
+    background-color: #2226D3;
+}
+
+.navbar {
+    background-color: #9899D3;
+}
+
+li > a {
+    color: white;
+}
+
+li {
+    padding-right: 30px;
+}
+
+.main {
+    margin-left: 18%;
+    margin-right: 18%;
+    background-color: lightblue;
+    height: 500px;
+}
+
+.jumbotron {
+    margin: 10px 10px 20px 10px;
+    padding-left: 8px;
+    color: black;
+    background-color: lightblue;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+#content {
+    font-size: 15px;
+}
+
+.images {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10px;
+}
+
+img {
+    width: 50%;
+    height: 200px;
+}
+
+#one {
+    float: left;
+}
